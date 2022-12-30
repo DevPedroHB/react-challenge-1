@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio Challenge</h1>
+<h1 align="center">React Interview Challenge</h1>
 
 <p align="center">
   In this challenge is to create a web page where it marks the place where the user clicked being possible to revert and resume marking.
